@@ -1,1 +1,2 @@
-DQN_empty_goal.py
+- DQN_empty_goal.py: Implementacion del algoritmo DQN en el escenario 'Empty Goal'
+- DQN_empty_goal_sb.py: Implementacion del algoritmo DQN con Stable Baselines en el escenario 'Empty Goal
